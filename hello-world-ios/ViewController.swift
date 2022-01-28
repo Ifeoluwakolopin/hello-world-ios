@@ -13,7 +13,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    @IBOutlet weak var textLabel: UILabel!
+    @IBAction func buttonClicked(_ sender: Any) {
+        print("hello")
+        textLabel.textColor = UIColor.orange
+    }
+    
 }
 
