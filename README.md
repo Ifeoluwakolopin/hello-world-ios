@@ -4,7 +4,7 @@
 `This app is designed to greet users. It can also serve as a game where users can change the color of their greetings.
 
 ### App Walk-though
-![GIF](hello-world.GIF)
+![GIF](https://media.giphy.com/media/g73HWuISBBIe3Tm31v/giphy.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
