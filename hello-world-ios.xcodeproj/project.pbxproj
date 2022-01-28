@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		32573AEC27A406F900438E5C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		32F0531E27A3D470009FE4D1 /* hello-world-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hello-world-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32F0532127A3D470009FE4D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		32F0532327A3D470009FE4D1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		32F0531527A3D470009FE4D1 = {
 			isa = PBXGroup;
 			children = (
+				32573AEC27A406F900438E5C /* README.md */,
 				32F0532027A3D470009FE4D1 /* hello-world-ios */,
 				32F0533727A3D471009FE4D1 /* hello-world-iosTests */,
 				32F0534127A3D471009FE4D1 /* hello-world-iosUITests */,
